@@ -30,6 +30,8 @@ I build things end to end — train the model, then ship the interface that make
 | **[Applied Cryptography](https://github.com/glen1599/applied-cryptography-python)**<br/>`NumPy · exact integer arithmetic` | The Hill cipher turned into a real library: Bareiss determinant, adjugate modular inverse, validated keys, any block size. | 25 tests |
 | **[Machine Learning Coursework](https://github.com/glen1599/machine-learning-coursework-python)**<br/>`scikit-learn · pandas` | A semester of ML coursework, de-duplicated and organised by theme, with CLIQUE subspace clustering extracted into a tested module. | 26 notebooks · 10 tests |
 | **[Library Management](https://github.com/glen1599/aplikasi-perpustakaan-java)**<br/>`Java Swing · MySQL · JasperReports` | Desktop app for a school library: members, stock, loans, returns, fines and printed receipts — stock enforced by database triggers. | 57 files · schema + sample data included |
+| **[AsistenGlen](https://github.com/glen1599/asistenglen)**<br/>`Swift · SwiftUI · WebKit` | A floating browser for ChatGPT, Claude and Gemini: always on top, click-through, invisible to screen sharing, with push-to-talk dictation. | 4 Swift files · no dependencies · Carbon hotkeys |
+| **[Notebook Triage](https://github.com/glen1599/notebook-triage)**<br/>`Python · gdown · nbformat` | The pipeline that turned 61 scattered Colab notebooks into three publishable repositories — fetch, classify, sanitise, report. | 61 notebooks audited · raw data never published |
 
 ## What I work with
 
