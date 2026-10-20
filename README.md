@@ -12,11 +12,7 @@ I build things end to end — train the model, then ship the interface that make
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-111F68)](https://docs.ultralytics.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-📍 Palangka Raya, Indonesia · open to ML / full-stack roles
 
-</div>
-
-▶ **Live demo:** [Zoepy Petshop Jogja](https://glen1599.github.io/zoepy-petshop-jogja/) — marketing site + admin panel, runs in demo mode with no setup.
 
 ---
 
