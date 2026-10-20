@@ -29,18 +29,6 @@ I build things end to end — train the model, then ship the interface that make
 | **[AsistenGlen](https://github.com/glen1599/asistenglen)**<br/>`Swift · SwiftUI · WebKit` | A floating browser for ChatGPT, Claude and Gemini: always on top, click-through, invisible to screen sharing, with push-to-talk dictation. | 4 Swift files · no dependencies · Carbon hotkeys |
 | **[Notebook Triage](https://github.com/glen1599/notebook-triage)**<br/>`Python · gdown · nbformat` | The pipeline that turned 61 scattered Colab notebooks into three publishable repositories — fetch, classify, sanitise, report. | 61 notebooks audited · raw data never published |
 
-## What I work with
-
-**Applied ML** — object detection (YOLOv8), classical models, clustering, time series, NLP
-**Backend** — Python, Flask, PostgreSQL, Supabase, RLS, SQLite
-**Frontend** — TypeScript/React, GSAP + ScrollTrigger, Lenis, CSS design systems
-**Practice** — tests before claims, reproducible benchmarks, documented limitations
-
-## How I work
-
-I write down what a system does *not* do, alongside what it does. Every repository above
-ships with the numbers that back its claims and the commands to reproduce them — because a
-model card that only reports its best metric is not something to trust a crop with.
 
 ---
 
