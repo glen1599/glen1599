@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 196" width="460" height="196" role="img" aria-labelledby="ttTitle">
+  <title id="ttTitle">Timing tower — applied ML, backend, frontend sectors</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="195" rx="12" fill="#0A0A0C" stroke="#1E1E22"/>
+  <g class="mono">
+    <text x="18" y="26" fill="#5F6469" font-size="10" letter-spacing="2">TIMING TOWER</text>
+    <text x="442" y="26" fill="#3C4044" font-size="9" letter-spacing="1" text-anchor="end">S1 · S2 · S3</text>
+  </g>
+  <path d="M18 38H442" stroke="#1A1A1E"/>
+
+  <!-- P1 -->
+  <g>
+    <rect x="10" y="48" width="440" height="40" rx="6" fill="#8B5CF6" fill-opacity="0.10" stroke="#8B5CF6" stroke-opacity="0.35"/>
+    <rect x="10" y="48" width="3" height="40" rx="1.5" fill="#8B5CF6"/>
+    <text x="22" y="72" class="mono" fill="#8B5CF6" font-size="13" font-weight="700">1</text>
+    <text x="42" y="72" class="sans" fill="#F7F7F8" font-size="13" font-weight="700" letter-spacing="0.5">APPLIED ML</text>
+    <text x="42" y="84" class="mono" fill="#6B7075" font-size="8" letter-spacing="1">YOLOV8 · SCIKIT-LEARN · NUMPY</text>
+    <g>
+      <rect x="272" y="60" width="50" height="6" rx="3" fill="#8B5CF6"/>
+      <rect x="328" y="60" width="50" height="6" rx="3" fill="#8B5CF6" opacity="0.85"/>
+      <rect x="384" y="60" width="50" height="6" rx="3" fill="#8B5CF6" opacity="0.7">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <circle cx="438" cy="54" r="3" fill="#8B5CF6">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- P2 -->
+  <g>
+    <text x="22" y="116" class="mono" fill="#FF2800" font-size="13" font-weight="700">2</text>
+    <text x="42" y="116" class="sans" fill="#F7F7F8" font-size="13" font-weight="700" letter-spacing="0.5">BACKEND</text>
+    <text x="42" y="128" class="mono" fill="#6B7075" font-size="8" letter-spacing="1">FLASK · POSTGRES · SUPABASE · RLS</text>
+    <g>
+      <rect x="272" y="104" width="50" height="6" rx="3" fill="#FF2800"/>
+      <rect x="328" y="104" width="50" height="6" rx="3" fill="#FF2800" opacity="0.85"/>
+      <rect x="384" y="104" width="50" height="6" rx="3" fill="#FF2800" opacity="0.55"/>
+    </g>
+  </g>
+
+  <!-- P3 -->
+  <g>
+    <text x="22" y="160" class="mono" fill="#A7ABB0" font-size="13" font-weight="700">3</text>
+    <text x="42" y="160" class="sans" fill="#F7F7F8" font-size="13" font-weight="700" letter-spacing="0.5">FRONTEND</text>
+    <text x="42" y="172" class="mono" fill="#6B7075" font-size="8" letter-spacing="1">TYPESCRIPT · GSAP · SWIFTUI</text>
+    <g>
+      <rect x="272" y="148" width="50" height="6" rx="3" fill="#F7F7F8" opacity="0.75"/>
+      <rect x="328" y="148" width="50" height="6" rx="3" fill="#F7F7F8" opacity="0.5"/>
+      <rect x="384" y="148" width="50" height="6" rx="3" fill="#F7F7F8" opacity="0.3"/>
+    </g>
+  </g>
+</svg>

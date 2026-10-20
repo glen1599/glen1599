@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-labelledby="telTitle">
+  <title id="telTitle">Telemetry trace — throttle and brake</title>
+  <defs>
+    <clipPath id="window"><rect x="0" y="0" width="980" height="130" rx="10"/></clipPath>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0A0A0C"/>
+      <stop offset="1" stop-color="#12090A"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1200" height="130" rx="12" fill="url(#panel)" stroke="#1E1E22"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.04">
+    <path d="M0 32H980M0 64H980M0 96H980"/>
+    <path d="M120 0V130M240 0V130M360 0V130M480 0V130M600 0V130M720 0V130M840 0V130M960 0V130"/>
+  </g>
+  <g clip-path="url(#window)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0" dur="12s" repeatCount="indefinite"/>
+      <polyline points="0,55.0 12,57.2 20,49.4 44,57.7 68,62.6 80,49.6 88,62.2 112,60.0 120,66.3 136,73.4 148,76.3 156,89.1 164,73.8 172,87.9 196,93.9 220,96.0 232,96.0 256,96.0 272,87.4 284,95.7 300,96.0 324,96.0 332,85.9 348,73.8 364,86.5 388,86.7 400,80.4 424,91.5 448,94.4 456,93.7 480,91.0 492,86.7 508,73.5 516,82.4 540,78.3 548,77.3 564,83.8 588,88.5 600,88.6 608,96.0 620,92.9 636,96.0 652,94.7 668,96.0 676,92.3 688,92.9 700,90.5 708,89.9 724,92.1 736,96.0 760,95.5 776,92.8 784,94.0 800,92.7 808,96.0 820,96.0 832,96.0 848,81.0 856,67.7 864,66.2 880,58.2 888,67.7 900,62.7 908,52.1 924,53.0 936,58.0 952,56.5 968,56.4 976,41.2 1000,36.1 1012,28.4 1028,41.2 1040,56.1 1064,66.3 1072,57.5 1096,46.2 1108,44.4 1132,45.8 1144,61.1 1168,52.3 1176,48.9 1192,54.0 1200,55.0 1212,57.2 1220,49.4 1244,57.7 1268,62.6 1280,49.6 1288,62.2 1312,60.0 1320,66.3 1336,73.4 1348,76.3 1356,89.1 1364,73.8 1372,87.9 1396,93.9 1420,96.0 1432,96.0 1456,96.0 1472,87.4 1484,95.7 1500,96.0 1524,96.0 1532,85.9 1548,73.8 1564,86.5 1588,86.7 1600,80.4 1624,91.5 1648,94.4 1656,93.7 1680,91.0 1692,86.7 1708,73.5 1716,82.4 1740,78.3 1748,77.3 1764,83.8 1788,88.5 1800,88.6 1808,96.0 1820,92.9 1836,96.0 1852,94.7 1868,96.0 1876,92.3 1888,92.9 1900,90.5 1908,89.9 1924,92.1 1936,96.0 1960,95.5 1976,92.8 1984,94.0 2000,92.7 2008,96.0 2020,96.0 2032,96.0 2048,81.0 2056,67.7 2064,66.2 2080,58.2 2088,67.7 2100,62.7 2108,52.1 2124,53.0 2136,58.0 2152,56.5 2168,56.4 2176,41.2 2200,36.1 2212,28.4 2228,41.2 2240,56.1 2264,66.3 2272,57.5 2296,46.2 2308,44.4 2332,45.8 2344,61.1 2368,52.3 2376,48.9 2392,54.0" fill="none" stroke="#00D2BE" stroke-width="2" stroke-opacity="0.9"/>
+      <polyline points="0,72.0 8,55.7 24,69.1 40,59.1 52,63.4 64,83.4 88,95.6 104,96.0 128,96.0 136,96.0 152,94.6 168,96.0 192,96.0 204,96.0 216,85.2 228,78.2 240,78.6 256,96.0 268,96.0 292,96.0 308,96.0 324,90.5 348,76.9 372,85.5 396,91.7 408,91.3 432,91.4 448,96.0 472,96.0 496,90.0 520,89.5 532,96.0 544,96.0 560,96.0 584,88.4 608,80.9 620,80.4 636,96.0 644,96.0 660,96.0 672,96.0 680,78.4 688,69.3 700,76.6 708,86.7 720,96.0 732,96.0 740,92.9 748,75.2 764,62.1 772,45.4 780,26.4 788,21.3 800,33.9 812,43.2 820,38.7 828,50.4 840,36.5 848,16.7 856,12.0 880,12.0 904,14.1 912,30.1 936,44.6 948,43.5 960,27.3 976,40.8 984,38.7 996,39.5 1020,38.9 1036,24.7 1052,15.1 1076,21.2 1088,28.0 1104,12.0 1116,12.0 1140,17.4 1148,37.2 1160,45.7 1168,35.8 1180,40.7 1196,31.0 1200,72.0 1208,55.7 1224,69.1 1240,59.1 1252,63.4 1264,83.4 1288,95.6 1304,96.0 1328,96.0 1336,96.0 1352,94.6 1368,96.0 1392,96.0 1404,96.0 1416,85.2 1428,78.2 1440,78.6 1456,96.0 1468,96.0 1492,96.0 1508,96.0 1524,90.5 1548,76.9 1572,85.5 1596,91.7 1608,91.3 1632,91.4 1648,96.0 1672,96.0 1696,90.0 1720,89.5 1732,96.0 1744,96.0 1760,96.0 1784,88.4 1808,80.9 1820,80.4 1836,96.0 1844,96.0 1860,96.0 1872,96.0 1880,78.4 1888,69.3 1900,76.6 1908,86.7 1920,96.0 1932,96.0 1940,92.9 1948,75.2 1964,62.1 1972,45.4 1980,26.4 1988,21.3 2000,33.9 2012,43.2 2020,38.7 2028,50.4 2040,36.5 2048,16.7 2056,12.0 2080,12.0 2104,14.1 2112,30.1 2136,44.6 2148,43.5 2160,27.3 2176,40.8 2184,38.7 2196,39.5 2220,38.9 2236,24.7 2252,15.1 2276,21.2 2288,28.0 2304,12.0 2316,12.0 2340,17.4 2348,37.2 2360,45.7 2368,35.8 2380,40.7 2396,31.0" fill="none" stroke="#FF2800" stroke-width="2" stroke-opacity="0.85"/>
+    </g>
+  </g>
+  <g class="mono">
+    <text x="18" y="24" fill="#5F6469" font-size="10" letter-spacing="2">TELEMETRY</text>
+    <rect x="120" y="15" width="10" height="3" fill="#00D2BE"/>
+    <text x="136" y="20" fill="#6B7075" font-size="9" letter-spacing="1">THROTTLE</text>
+    <rect x="212" y="15" width="10" height="3" fill="#FF2800"/>
+    <text x="228" y="20" fill="#6B7075" font-size="9" letter-spacing="1">BRAKE</text>
+  </g>
+  <line x1="996" y1="16" x2="996" y2="114" stroke="#1E1E22"/>
+  <g class="mono">
+    <text x="1030" y="30" fill="#5F6469" font-size="9" letter-spacing="2">GEAR</text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="0">1
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="0">2
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="0.75s" repeatCount="indefinite"/>
+    </text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="0">3
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="1">4
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="2.25s" repeatCount="indefinite"/>
+    </text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="0">5
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="3.0s" repeatCount="indefinite"/>
+    </text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="0">6
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="3.75s" repeatCount="indefinite"/>
+    </text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="0">7
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="4.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1030" y="86" fill="#F7F7F8" font-size="46" font-weight="700" opacity="0">8
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.1;0.125" dur="6s" begin="5.25s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <circle cx="1090" cy="104" r="3" fill="#00D2BE" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="104" r="3" fill="#00D2BE" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.08s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1110" cy="104" r="3" fill="#00D2BE" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="104" r="3" fill="#00D2BE" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.24s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1130" cy="104" r="3" fill="#00D2BE" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.32s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1140" cy="104" r="3" fill="#FFD400" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1150" cy="104" r="3" fill="#FFD400" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.48s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1160" cy="104" r="3" fill="#FFD400" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.56s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1170" cy="104" r="3" fill="#FF2800" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.64s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1180" cy="104" r="3" fill="#FF2800" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.1;0.9;1" dur="1.2s" begin="0.72s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="1030" y="122" fill="#5F6469" font-size="8" letter-spacing="1">RPM</text>
+</svg>

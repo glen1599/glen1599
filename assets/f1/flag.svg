@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Checkered flag divider">
+  <defs>
+    <pattern id="flag" width="32" height="24" patternUnits="userSpaceOnUse">
+      <rect width="16" height="12" fill="#F7F7F8"/>
+      <rect x="16" y="12" width="16" height="12" fill="#F7F7F8"/>
+      <rect x="16" width="16" height="12" fill="#0A0A0C"/>
+      <rect y="12" width="16" height="12" fill="#0A0A0C"/>
+    </pattern>
+  </defs>
+  <g>
+    <rect x="-32" y="0" width="1264" height="24" fill="url(#flag)" opacity="0.85">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-32 0" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
