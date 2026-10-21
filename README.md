@@ -1,28 +1,20 @@
-
-
 <h1 align="center">Hi 👋🏻, I'm Glen</h1>
 
-<h3 align="center">Machine Learning & Full-Stack Engineer</h3>
+<h3 align="center">Informatics Graduate | Machine Learning & Full-Stack Enthusiast</h3>
 
 <h2 align="center">🚀 About Me</h2>
 
-I'm a machine learning and full-stack engineer based in Palangka Raya, Indonesia. I like problems that start as a single notebook and end as a repository with tests, sane naming, and a README someone else can actually follow.
+I'm a fresh Informatics graduate based in Palangka Raya, Indonesia. I enjoy turning ideas from a Jupyter notebook into clean, working applications—mostly focusing on **Computer Vision** (YOLOv8, OpenCV) and **Full-Stack Development** (Python, React/TS, Supabase, Java, Swift).
 
-Day to day that means computer vision with YOLOv8, optimization with OR-Tools and CP-SAT, and the occasional deep dive into time series and NLP. On the product side I build the whole thing — Supabase schema and row-level security, React/TypeScript front ends, Java/MySQL desktop apps, and Swift utilities when macOS deserves something native.
-
-My process is unglamorous on purpose: build the smallest version, break it, read the error, fix the actual cause, write the check that proves it, ship. I'd rather have one honest test than a folder of screenshots.
-
-When I'm not in a notebook or an editor, I'm probably turning a "wouldn't it be cool if…" into another repository nobody asked for (me included).
-
-<p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal: recent build commands" width="100%">
-</p>
+I learn best by doing: build a prototype, break it, fix the root cause, and make it better. Always eager to learn new things, grow as an engineer, and collaborate!
 
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
 <a href="https://github.com/glen1599"><img src="https://img.shields.io/badge/github-glen1599-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
 <a href="https://github.com/glen1599?tab=repositories"><img src="https://img.shields.io/badge/repositories-view-3B82F6?style=for-the-badge&logo=git&logoColor=white" alt="repositories"></a>
+<a href="mailto:devitglen@gmail.com"><img src="https://img.shields.io/badge/gmail-devitglen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://instagram.com/glendevit"><img src="https://img.shields.io/badge/instagram-@glendevit-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -55,18 +47,6 @@ When I'm not in a notebook or an editor, I'm probably turning a "wouldn't it be 
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 </p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=glen1599&show_icons=true&locale=en&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&icon_color=3B82F6&border_color=3B82F6" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=glen1599&background=1F242C&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border_radius=5" height="150"/>
-
-</div>
 
 <h2 align="center">⌘ Commit Activity</h2>
 
