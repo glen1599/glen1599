@@ -94,7 +94,7 @@ When I'm not in a notebook or an editor, I'm probably turning a "wouldn't it be 
 <h2 align="center">⌘ Quote</h2>
 
 <p align="center">
-  <em>"Build it. Break it. Understand it. Ship it."</em>
+  <em>"HI."</em>
   <br>
   <sub>— Glen</sub>
 </p>
