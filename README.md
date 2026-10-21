@@ -7,12 +7,14 @@
 <h3 align="center">Machine Learning & Full-Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Training+Models+That+Ship;%3E+Full-Stack+From+Schema+to+UI;%3E+Swift+Utilities+for+macOS;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Always+Learning;%3E+Training+Models+That+Ship;%3E+Full-Stack+From+Schema+to+UI;%3E+Swift+Utilities+for+macOS" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./assets/pills.svg" alt="Always learning · Build in public · Test before ship" width="700">
 </p>
 
 <h2 align="center">🚀 About Me</h2>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=glen1599&show_icons=true&locale=en&layout=compact&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&border_color=3B82F6" width="300" alt="Top languages"/>
 
 I'm a machine learning and full-stack engineer based in Palangka Raya, Indonesia. I like problems that start as a single notebook and end as a repository with tests, sane naming, and a README someone else can actually follow.
 
@@ -21,8 +23,6 @@ Day to day that means computer vision with YOLOv8, optimization with OR-Tools an
 My process is unglamorous on purpose: build the smallest version, break it, read the error, fix the actual cause, write the check that proves it, ship. I'd rather have one honest test than a folder of screenshots.
 
 When I'm not in a notebook or an editor, I'm probably turning a "wouldn't it be cool if…" into another repository nobody asked for (me included).
-
-<br clear="right"/>
 
 <p align="center">
   <img src="./assets/terminal.svg" alt="Terminal: recent build commands" width="100%">
@@ -71,19 +71,12 @@ When I'm not in a notebook or an editor, I'm probably turning a "wouldn't it be 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=glen1599&show_icons=true&locale=en&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&icon_color=3B82F6&border_color=3B82F6" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=glen1599&show_icons=true&locale=en&layout=compact&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&border_color=3B82F6" height="180"/>
 
 <br>
 
 <img src="https://streak-stats.demolab.com?user=glen1599&background=1F242C&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border_radius=5" height="150"/>
 
 </div>
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glen1599&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
-</p>
 
 <h2 align="center">⌘ Commit Activity</h2>
 

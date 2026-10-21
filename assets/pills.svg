@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="46" viewBox="0 0 520 46" role="img" aria-label="Always learning, build in public, test before ship">
+  <defs>
+    <linearGradient id="p1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="p2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="p3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="518.5" height="44.5" rx="22" fill="#08151F" stroke="#1E3F4C" stroke-width="1.5"/>
+
+  <g font-family="Menlo, 'SF Mono', monospace" font-size="12" font-weight="600">
+    <rect x="1" y="1" width="158" height="44" rx="22" fill="#2DD4BF" fill-opacity="0.10" stroke="url(#p1)" stroke-width="1.2"/>
+    <circle cx="24" cy="23" r="4" fill="#2DD4BF">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="27" fill="#CFFAF2">always learning</text>
+
+    <rect x="173" y="1" width="158" height="44" rx="22" fill="#38BDF8" fill-opacity="0.10" stroke="url(#p2)" stroke-width="1.2"/>
+    <circle cx="196" cy="23" r="4" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="212" y="27" fill="#D6EEFF">build in public</text>
+
+    <rect x="345" y="1" width="174" height="44" rx="22" fill="#A78BFA" fill-opacity="0.10" stroke="url(#p3)" stroke-width="1.2"/>
+    <circle cx="368" cy="23" r="4" fill="#A78BFA">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="384" y="27" fill="#EDE7FF">test before ship</text>
+  </g>
+</svg>
