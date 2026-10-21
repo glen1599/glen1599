@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="222" viewBox="0 0 820 222" role="img" aria-label="Terminal: recent build commands">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111A27"/>
+    </linearGradient>
+    <clipPath id="tclip"><rect x="1" y="1" width="818" height="220" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#tclip)">
+    <rect width="820" height="222" fill="url(#tbg)"/>
+    <rect width="820" height="34" fill="#0A0F17"/>
+    <circle cx="22" cy="17" r="5" fill="#FF5F57"/>
+    <circle cx="40" cy="17" r="5" fill="#FEBC2E"/>
+    <circle cx="58" cy="17" r="5" fill="#28C840"/>
+    <text x="410" y="21" text-anchor="middle" font-family="Menlo, 'SF Mono', monospace" font-size="11" fill="#6B7C93">glen — zsh — 96x24</text>
+    <circle cx="788" cy="17" r="4" fill="#3FB950">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <g font-family="Menlo, 'SF Mono', monospace" font-size="13.5">
+      <text x="24" y="66" fill="#7DA2CE">$<tspan fill="#E6EDF3" dx="10">python train.py --data coffee.yaml --epochs 50</tspan></text>
+      <text x="24" y="92" fill="#3FB950">✓ mAP50 0.912 · exported to runs/detect/best.pt</text>
+      <text x="24" y="124" fill="#7DA2CE">$<tspan fill="#E6EDF3" dx="10">npm run build &amp;&amp; supabase db push</tspan></text>
+      <text x="24" y="150" fill="#3FB950">✓ built in 3.4s · migrations applied · 0 errors</text>
+      <text x="24" y="182" fill="#7DA2CE">$<tspan fill="#E6EDF3" dx="10">swift build -c release</tspan></text>
+      <text x="24" y="208" fill="#3FB950">✓ Universal File Converter 1.0.0 · 8 suites passed</text>
+    </g>
+
+
+    <rect x="0.75" y="0.75" width="818.5" height="220.5" rx="14" fill="none" stroke="#22304A" stroke-width="1.5"/>
+  </g>
+</svg>

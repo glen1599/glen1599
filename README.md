@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Glen%20Devit%20Renaldi&fontSize=40&fontColor=C9D1D9&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Full-Stack%20Engineering&descAlignY=58&descSize=16" alt="Banner" width="100%">
+  <img src="./assets/hero.svg" alt="Glen Devit Renaldi — machine learning and full-stack engineering" width="100%">
 </p>
 
 <h1 align="center">Hi 👋🏻, I'm Glen</h1>
@@ -23,6 +23,10 @@ My process is unglamorous on purpose: build the smallest version, break it, read
 When I'm not in a notebook or an editor, I'm probably turning a "wouldn't it be cool if…" into another repository nobody asked for (me included).
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: recent build commands" width="100%">
+</p>
 
 <h2 align="center">🤝 Connect</h2>
 
