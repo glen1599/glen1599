@@ -1,56 +1,43 @@
-<div align="center">
+<p align="center">
+  <img src="assets/f1/banner.svg?v=1" alt="Scuderia Glen — Formula 1 circuit banner" width="100%">
+</p>
 
-<img src="assets/f1/hero.svg?v=1" alt="Glen Devit Renaldi — machine learning and full-stack engineering" width="100%">
+<h1 align="center">Hi 👋🏻, I'm Glen Devit Renaldi</h1>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=FF2800&center=true&vCenter=true&width=820&lines=Machine+learning+%2B+full-stack+engineering;Train+the+model%2C+ship+the+interface;Every+repo+ships+with+proof" alt="Machine learning and full-stack engineering">
-</a>
+<h3 align="center">Machine Learning & Full-Stack Engineer · Palangka Raya, ID</h3>
 
-[![Python](https://img.shields.io/badge/Python-FF2800?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-FF2800?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-FF2800?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF2800?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Swift](https://img.shields.io/badge/Swift-FF2800?style=flat-square&logo=swift&logoColor=white)](https://swift.org/)
-[![Flask](https://img.shields.io/badge/Flask-FF2800?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-FF2800?style=flat-square)](https://docs.ultralytics.com/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=760&height=52&lines=%3E+Train+the+model%2C+ship+the+interface;%3E+Tests+before+claims;%3E+Telemetry+over+opinions;%3E+Document+what+it+does+not+do" alt="Typing SVG" />
+</p>
 
-</div>
+<h2 align="center">🏎️ About Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center"><sub>TEAM</sub><br/><b>Independent</b></td>
-    <td align="center"><sub>BASE</sub><br/><b>Palangka Raya, ID</b></td>
-    <td align="center"><sub>STATUS</sub><br/><b>Open to ML / full-stack</b></td>
-    <td align="center"><sub>SEASONS</sub><br/><b>2024 · 2025 · 2026</b></td>
-  </tr>
-</table>
+<img align="right" src="assets/f1/car.svg?v=1" width="320" alt="Formula 1 car"/>
 
-<div align="center">
+Here's the short version: I train models, then build the thing that makes them usable. Most of my work starts with a question nobody asked in a notebook — can a farmer photograph a coffee leaf and get an answer in 20 ms? — and ends with a service, a test suite, and a README that says what it does *not* do.
 
-### ▶ [Live demo — Zoepy Petshop Jogja](https://glen1599.github.io/zoepy-petshop-jogja/)
+I like the unglamorous half: the database trigger that keeps stock honest even when a screen forgets, the RLS policy that survives an audit, the global hotkey that works without an Accessibility prompt. F1 is the same obsession in a different shape — telemetry, marginal gains, and shipping under a deadline. I don't just watch the races; I read the timing sheets.
 
-Marketing site + admin panel, running in demo mode. No setup, no account.
+I build end to end because the handoff is where most ideas die. Model, API, interface, deployment: one person, one thread, no "that's not my ticket".
 
-</div>
+Currently open to ML / full-stack roles where the work is measured, not described.
 
----
+<br clear="right"/>
 
-## 🏁 Race calendar — selected work
+<h2 align="center">🏁 Race Calendar</h2>
 
 | Rd | Project | What it is | Proof it works |
 |:--:| --- | --- | --- |
-| **01** | **[Coffee Leaf Disease Detection](https://github.com/glen1599/coffee-leaf-disease-yolov8)**<br/>`YOLOv8 · Flask · OpenCV` | A coffee leaf is photographed and diagnosed in one request: class, lesion boxes, confidence and a treatment protocol. Trained on 3,992 annotated images. | [Metrics](https://github.com/glen1599/coffee-leaf-disease-yolov8#model-metrics) · 31 tests · CI green · mAP@50 98.49 % |
-| **02** | **[Zoepy Petshop Jogja](https://github.com/glen1599/zoepy-petshop-jogja)**<br/>`GSAP · Lenis · Supabase · Postgres` | Marketing site for a real pet shop, plus an admin panel and booking system. Every list reads from the database. | **[Live demo](https://glen1599.github.io/zoepy-petshop-jogja/)** · 24 RLS assertions verified against PostgreSQL |
-| **03** | **[Optimization Algorithms](https://github.com/glen1599/optimization-algorithms-python)**<br/>`OR-Tools · CP-SAT · NumPy` | Job-shop scheduling, capacitated vehicle routing, an Ant Colony metaheuristic for VRPTW, AHP decision analysis and Prim's MST — as tested libraries, not notebooks. | 50 tests · 6 notebooks |
-| **04** | **[Applied Cryptography](https://github.com/glen1599/applied-cryptography-python)**<br/>`NumPy · exact integer arithmetic` | The Hill cipher turned into a real library: Bareiss determinant, adjugate modular inverse, validated keys, any block size. | 25 tests |
-| **05** | **[Machine Learning Coursework](https://github.com/glen1599/machine-learning-coursework-python)**<br/>`scikit-learn · pandas` | A semester of ML coursework, de-duplicated and organised by theme, with CLIQUE subspace clustering extracted into a tested module. | 26 notebooks · 10 tests |
-| **06** | **[Library Management](https://github.com/glen1599/aplikasi-perpustakaan-java)**<br/>`Java Swing · MySQL · JasperReports` | Desktop app for a school library: members, stock, loans, returns, fines and printed receipts — stock enforced by database triggers. | 57 files · schema + sample data included |
-| **07** | **[AsistenGlen](https://github.com/glen1599/asistenglen)**<br/>`Swift · SwiftUI · WebKit` | A floating browser for ChatGPT, Claude and Gemini: always on top, click-through, invisible to screen sharing, with push-to-talk dictation. | 4 Swift files · no dependencies · Carbon hotkeys |
-| **08** | **[Notebook Triage](https://github.com/glen1599/notebook-triage)**<br/>`Python · gdown` | The pipeline that turned 61 scattered Colab notebooks into three publishable repositories — fetch, classify, sanitise, report. | 61 notebooks audited · raw data never published |
+| **01** | **[Coffee Leaf Disease Detection](https://github.com/glen1599/coffee-leaf-disease-yolov8)**<br/>`YOLOv8 · Flask · OpenCV` | A leaf is photographed and diagnosed in one request: class, lesion boxes, confidence and a treatment protocol. Trained on 3,992 annotated images. | [Metrics](https://github.com/glen1599/coffee-leaf-disease-yolov8#model-metrics) · 31 tests · CI green · mAP@50 98.49 % |
+| **02** | **[Zoepy Petshop Jogja](https://github.com/glen1599/zoepy-petshop-jogja)**<br/>`GSAP · Lenis · Supabase` | Marketing site for a real pet shop, plus an admin panel and booking system. Every list reads from the database. | **[Live demo](https://glen1599.github.io/zoepy-petshop-jogja/)** · 24 RLS assertions verified |
+| **03** | **[Optimization Algorithms](https://github.com/glen1599/optimization-algorithms-python)**<br/>`OR-Tools · CP-SAT · NumPy` | Job-shop scheduling, capacitated vehicle routing, Ant Colony for VRPTW, AHP and Prim's MST — as tested libraries, not notebooks. | 50 tests · 6 notebooks |
+| **04** | **[Applied Cryptography](https://github.com/glen1599/applied-cryptography-python)**<br/>`NumPy · exact integers` | The Hill cipher as a real library: Bareiss determinant, adjugate modular inverse, validated keys, any block size. | 25 tests |
+| **05** | **[Machine Learning Coursework](https://github.com/glen1599/machine-learning-coursework-python)**<br/>`scikit-learn · pandas` | A semester of ML coursework, de-duplicated by theme, with CLIQUE subspace clustering extracted into a tested module. | 26 notebooks · 10 tests |
+| **06** | **[Library Management](https://github.com/glen1599/aplikasi-perpustakaan-java)**<br/>`Java Swing · MySQL` | Desktop app for a school library: members, stock, loans, returns, fines and printed receipts — stock enforced by triggers. | 57 files · schema + sample data |
+| **07** | **[AsistenGlen](https://github.com/glen1599/asistenglen)**<br/>`Swift · SwiftUI · WebKit` | A floating browser for ChatGPT, Claude and Gemini: always on top, click-through, invisible to screen sharing, with dictation. | 4 Swift files · no dependencies |
+| **08** | **[Notebook Triage](https://github.com/glen1599/notebook-triage)**<br/>`Python · gdown` | The pipeline that turned 61 scattered Colab notebooks into three publishable repositories. | 61 notebooks audited · raw data never published |
 
----
-
-## 🏎️ Race licence — certifications
+<h2 align="center">🏆 Race Licence</h2>
 
 | Licence | Issuer | Earned | Credential ID | Verify |
 | --- | --- | --- | --- | :--: |
@@ -66,62 +53,52 @@ Marketing site + admin panel, running in demo mode. No setup, no account.
 <img src="assets/certificates/sql-basic.png" width="32%" alt="HackerRank SQL (Basic) certificate">
 </details>
 
----
+<h2 align="center">🤝 Connect</h2>
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<p align="center">
+<a href="https://github.com/glen1599"><img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://glen1599.github.io/zoepy-petshop-jogja/"><img src="https://img.shields.io/badge/Live_Demo-FF2800?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"></a>
+<a href="https://github.com/glen1599?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="All repositories"></a>
+</p>
 
-<img src="assets/f1/timing.svg?v=1" alt="Timing tower: applied ML, backend, frontend" width="100%">
+<h2 align="center">💻 Tech Stack</h2>
 
-</td>
-<td width="48%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,java,swift,postgres,supabase,flask,sklearn,git,linux,docker,opencv&theme=dark&perline=12" alt="Tech stack icons">
+</p>
 
-### 🛠 What I work with
+<h2 align="center">📊 Telemetry</h2>
 
-**Applied ML** — object detection (YOLOv8), classical models, clustering, time series, NLP
-
-**Backend** — Python, Flask, PostgreSQL, Supabase, RLS, SQLite
-
-**Frontend** — TypeScript/React, GSAP + ScrollTrigger, Lenis, SwiftUI, CSS design systems
-
-**Practice** — tests before claims, reproducible benchmarks, documented limitations
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="assets/f1/telemetry.svg?v=1" alt="Telemetry: throttle and brake traces" width="100%">
-
-### 🧠 How I work
-
-I write down what a system does *not* do, alongside what it does. Every repository above ships
-with the numbers that back its claims and the commands to reproduce them — because a model card
-that only reports its best metric is not something to trust a crop with.
-
-> [!NOTE]
-> The fastest way to judge my work: open the live demo, then read the "Known limitations"
-> section of any repo. The second one tells you more.
-
----
+<p align="center">
+  <img src="assets/f1/telemetry.svg?v=1" alt="Telemetry trace" width="100%">
+</p>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=glen1599&show_icons=true&hide_border=false&bg_color=0B0B0F&title_color=FF2800&icon_color=FF2800&text_color=F7F7F8&border_color=FF2800" alt="GitHub stats">
-<img height="160" src="https://streak-stats.demolab.com?user=glen1599&background=0B0B0F&border=FF2800&stroke=FF2800&ring=FF2800&fire=FFD700&currStreakLabel=F7F7F8" alt="Contribution streak">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=glen1599&show_icons=true&locale=en&bg_color=0B0B0F&title_color=FF2800&text_color=F7F7F8&icon_color=FF2800&border_color=FF2800" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=glen1599&show_icons=true&locale=en&layout=compact&bg_color=0B0B0F&title_color=FF2800&text_color=F7F7F8&border_color=FF2800" alt="Top languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glen1599&layout=compact&bg_color=0B0B0F&title_color=FF2800&text_color=F7F7F8&border_color=FF2800" alt="Top languages">
+<br>
+
+<img height="150" src="https://streak-stats.demolab.com?user=glen1599&background=0B0B0F&ring=FF2800&fire=FFD700&currStreakLabel=F7F7F8&sideLabels=F7F7F8&currStreakNum=F7F7F8&sideNums=F7F7F8&dates=A7ABB0&border=FF2800&border_radius=5" alt="Contribution streak"/>
 
 </div>
 
----
+<h2 align="center">🐍 Commit Activity</h2>
 
-<img src="assets/f1/flag.svg?v=1" alt="Checkered flag" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/glen1599/glen1599/output/snake-dark.svg" alt="Contribution snake"/>
+</p>
+
+<h2 align="center">⌘ Quote</h2>
+
+<p align="center">
+  <em>"You cannot describe passion, you can only live it."</em>
+  <br>
+  <sub>— Enzo Ferrari</sub>
+</p>
 
 <div align="center">
-
-<sub><a href="https://github.com/glen1599?tab=repositories">All repositories</a> · Lights out and away we go.</sub>
-
+  <img src="assets/f1/flag.svg?v=1" alt="Checkered flag" width="100%">
+  <sub><a href="https://github.com/glen1599?tab=repositories">All repositories</a> · Lights out and away we go.</sub>
 </div>
