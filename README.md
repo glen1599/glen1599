@@ -91,12 +91,12 @@ When I'm not in a notebook or an editor, I'm probably turning a "wouldn't it be 
   <img src="https://raw.githubusercontent.com/glen1599/glen1599/output/snake-dark.svg" alt="snake contribution graph">
 </p>
 
-<h2 align="center">⌘ Quote</h2>
+<h2 align="center">/h2>
 
 <p align="center">
-  <em>"HI."</em>
+  <em>"HI"</em>
   <br>
-  <sub>— Glen</sub>
+  <sub></sub>
 </p>
 
 <div align="center">
