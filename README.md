@@ -1,18 +1,8 @@
-<p align="center">
-  <img src="./assets/hero.svg" alt="Glen Devit Renaldi — machine learning and full-stack engineering" width="100%">
-</p>
+
 
 <h1 align="center">Hi 👋🏻, I'm Glen</h1>
 
 <h3 align="center">Machine Learning & Full-Stack Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Always+Learning;%3E+Training+Models+That+Ship;%3E+Full-Stack+From+Schema+to+UI;%3E+Swift+Utilities+for+macOS" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="./assets/pills.svg" alt="Always learning · Build in public · Test before ship" width="700">
-</p>
 
 <h2 align="center">🚀 About Me</h2>
 
