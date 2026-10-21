@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 130" width="560" height="130" role="img" aria-labelledby="carTitle">
+  <title id="carTitle">Ferrari-red Formula 1 car with spinning wheels</title>
+  <defs>
+    <linearGradient id="carRed" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF3B1C"/>
+      <stop offset="1" stop-color="#B80E00"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .csans { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <ellipse cx="285" cy="120" rx="250" ry="7" fill="#FF2800" opacity="0.12"/>
+
+  <g transform="translate(10,4)">
+    <!-- rear wing -->
+    <rect x="10" y="2" width="92" height="8" rx="2" fill="#151518" stroke="#33333A"/>
+    <rect x="6" y="0" width="7" height="30" rx="2" fill="#FF2800"/>
+    <rect x="99" y="0" width="7" height="30" rx="2" fill="#FF2800"/>
+    <rect x="14" y="12" width="84" height="3" fill="#26262C">
+      <animateTransform attributeName="transform" type="rotate" values="0 100 14; -14 100 14; 0 100 14" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M50 10 L54 52 L64 52 L60 10 Z" fill="#151518"/>
+
+    <!-- body -->
+    <path d="M30 62
+             C70 48 140 44 200 46
+             L240 36
+             C272 28 312 30 342 40
+             L420 54
+             L506 66
+             L528 72
+             L528 78
+             L430 80
+             L340 82
+             L240 84
+             L140 82
+             L60 76 Z"
+          fill="url(#carRed)"/>
+    <path d="M34 60 C80 50 150 46 210 50 L330 58" fill="none" stroke="#FF7A5E" stroke-opacity="0.4" stroke-width="2"/>
+    <path d="M200 46 L240 36 C272 28 312 30 342 40" fill="none" stroke="#7A0A00" stroke-width="2" opacity="0.55"/>
+
+    <!-- sidepod -->
+    <path d="M140 58 C200 52 280 52 330 58 L338 78 L150 80 Z" fill="#B80E00" opacity="0.5"/>
+
+    <!-- airbox, cockpit, halo -->
+    <path d="M228 38 L242 18 L262 18 L252 40 Z" fill="#8E0B00"/>
+    <ellipse cx="276" cy="41" rx="22" ry="6" fill="#0A0A0C"/>
+    <path d="M246 40 C250 20 296 18 306 38" fill="none" stroke="#151518" stroke-width="6" stroke-linecap="round"/>
+    <path d="M248 38 C253 24 293 22 303 37" fill="none" stroke="#FFD700" stroke-opacity="0.25" stroke-width="1.4"/>
+
+    <!-- nose accent -->
+    <path d="M360 56 L500 68" stroke="#FFD700" stroke-opacity="0.3" stroke-width="3"/>
+
+    <!-- front wing -->
+    <rect x="500" y="80" width="42" height="6" rx="2" fill="#151518" stroke="#33333A"/>
+    <rect x="500" y="74" width="5" height="16" rx="1" fill="#FF2800"/>
+    <rect x="537" y="74" width="5" height="16" rx="1" fill="#FF2800"/>
+
+    <!-- floor -->
+    <path d="M60 78 L200 84 L320 84 L400 80" stroke="#0C0C0E" stroke-width="6" fill="none"/>
+
+    <!-- wheels -->
+    <g>
+      <circle cx="130" cy="86" r="28" fill="#0C0C0E" stroke="#2A2A30" stroke-width="3"/>
+      <circle cx="130" cy="86" r="12" fill="#1A1A1F" stroke="#3A3A42" stroke-width="2"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 130 86" to="360 130 86" dur="1.2s" repeatCount="indefinite"/>
+        <path d="M130 75 L130 97 M119 86 L141 86" stroke="#4A4A52" stroke-width="2"/>
+      </g>
+    </g>
+    <g>
+      <circle cx="420" cy="88" r="26" fill="#0C0C0E" stroke="#2A2A30" stroke-width="3"/>
+      <circle cx="420" cy="88" r="11" fill="#1A1A1F" stroke="#3A3A42" stroke-width="2"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 420 88" to="360 420 88" dur="1.2s" repeatCount="indefinite"/>
+        <path d="M420 78 L420 98 M410 88 L430 88" stroke="#4A4A52" stroke-width="2"/>
+      </g>
+    </g>
+
+    <text x="300" y="72" class="csans" font-size="15" font-weight="700" fill="#FFD700" opacity="0.9">GR</text>
+  </g>
+</svg>
